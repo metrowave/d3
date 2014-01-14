@@ -5,3 +5,7 @@
 Want to learn more? [See the wiki.](https://github.com/mbostock/d3/wiki)
 
 For examples, [see the gallery](https://github.com/mbostock/d3/wiki/Gallery) and [mbostock’s bl.ocks](http://bl.ocks.org/mbostock).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/metrowave/d3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
